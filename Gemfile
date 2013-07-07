@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-source 'https://rubygems.org'
-=======
+
 source 'http://rubygems.org'
 >>>>>>> sign-up
 ruby '2.0.0'
